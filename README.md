@@ -4,4 +4,3 @@ Here are some consolidated codes/APIs which I have learnt from my courses (CS323
 
 I hope these samples codes will be able to aid you in your own learning or mini projects:)
 
-Shout out to Prof Boyd Anderson, Prof Wang Jingxian and Dr. Zhang Jianwen.
